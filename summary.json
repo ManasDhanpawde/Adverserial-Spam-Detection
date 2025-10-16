@@ -1,0 +1,9 @@
+{
+  "baseline_clean_acc": 0.985,
+  "baseline_adv_acc": 0.88,
+  "after_adv_training_clean_acc": 0.985,
+  "after_adv_training_adv_acc": 0.94,
+  "n_attacked": 100,
+  "n_successful": 99,
+  "n_added_to_train": 49
+}
